@@ -6,8 +6,8 @@
   "name":"oTest",
   "overriddenProperties":[],
   "parent":{
-    "name":"SecretLevelJamTZA",
-    "path":"SecretLevelJamTZA.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
