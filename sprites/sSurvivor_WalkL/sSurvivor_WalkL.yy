@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"sSurvivor_WalkL",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":179,
-  "bbox_left":56,
+  "bbox_left":64,
   "bbox_right":179,
   "bbox_top":76,
   "collisionKind":1,
