@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"sSurvivor_WalkF",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":179,
   "bbox_left":76,
   "bbox_right":179,
-  "bbox_top":56,
+  "bbox_top":64,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
