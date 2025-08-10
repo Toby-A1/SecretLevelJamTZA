@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"sInteractable",
+    "path":"folders/Sprites/sInteractable.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

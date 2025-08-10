@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oBarrier",
+  "%Name":"oBarrier_Log",
   "eventList":[],
   "managed":true,
-  "name":"oBarrier",
+  "name":"oBarrier_Log",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"oBarrier",
+    "path":"folders/Objects/oBarrier.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sBarrier",
-    "path":"sprites/sBarrier/sBarrier.yy",
+    "name":"sBarrier_Log",
+    "path":"sprites/sBarrier_Log/sBarrier_Log.yy",
   },
   "spriteMaskId":null,
   "visible":true,
