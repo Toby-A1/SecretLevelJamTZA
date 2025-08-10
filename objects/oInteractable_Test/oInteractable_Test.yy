@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oInteractable",
+  "%Name":"oInteractable_Test",
   "eventList":[],
   "managed":true,
-  "name":"oInteractable",
+  "name":"oInteractable_Test",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"oInteractables",
+    "path":"folders/Objects/oInteractables.yy",
   },
   "parentObjectId":null,
   "persistent":false,
