@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sSurvivor",
-    "path":"sprites/sSurvivor/sSurvivor.yy",
+    "name":"sSurvivor_idleF",
+    "path":"sprites/sSurvivor_idleF/sSurvivor_idleF.yy",
   },
   "spriteMaskId":null,
   "visible":true,
