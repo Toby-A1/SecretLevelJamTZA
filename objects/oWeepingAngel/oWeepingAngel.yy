@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sWeepingAngel",
-    "path":"sprites/sWeepingAngel/sWeepingAngel.yy",
+    "name":"sWeeping_IdleF",
+    "path":"sprites/sWeeping_IdleF/sWeeping_IdleF.yy",
   },
   "spriteMaskId":null,
   "visible":true,
