@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sSurvivor_idleF",
-    "path":"sprites/sSurvivor_idleF/sSurvivor_idleF.yy",
+    "name":"sSurvivor",
+    "path":"sprites/sSurvivor/sSurvivor.yy",
   },
   "spriteMaskId":null,
   "visible":true,
