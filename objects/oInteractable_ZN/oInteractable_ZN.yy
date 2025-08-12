@@ -11,8 +11,8 @@
   "name":"oInteractable_ZN",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"SecretLevelJamTZA",
+    "path":"SecretLevelJamTZA.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
