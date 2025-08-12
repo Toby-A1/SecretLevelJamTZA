@@ -1,12 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"oEnemy_SetupPathway",
+  "%Name":"oSurvivor_ZN",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oWeepingAngel_ZN","path":"objects/oWeepingAngel_ZN/oWeepingAngel_ZN.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oEnemy_SetupPathway",
+  "name":"oSurvivor_ZN",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,8 +31,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"sSurvivor",
+    "path":"sprites/sSurvivor/sSurvivor.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
