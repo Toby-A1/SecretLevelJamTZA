@@ -1,3 +1,11 @@
 
 // create a grid
-grid = mp_grid_create(0,0,room_width/16, room_height/16, 64, 64);
+grid = mp_grid_create(0,0,room_width/16, room_height/16, 16, 16);
+
+// add walls to the grid
+mp_grid_add_instances(grid, oBarrier, 0);
+mp_grid_add_instances(grid, oInteractable, 0);
+
+
+
+
