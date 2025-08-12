@@ -13,8 +13,8 @@
   ],
   "name":"rm_Title_System",
   "parent":{
-    "name":"Menu System",
-    "path":"folders/Menu System.yy",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
